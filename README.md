@@ -1,0 +1,1 @@
+# plugins-genesis-widgetized-footer
